@@ -1,0 +1,8 @@
+
+# Archivos binarios y obj
+/bin/
+/obj/
+/Debug/
+/Release/
+
+
